@@ -1,0 +1,12 @@
+name: example_complex_yaml
+title: example complex yaml
+username: cole
+account: cole
+server: cole
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 5152
+bundleId: 35452
+url: https://colorado.rstudio.com/rsc/content/5152/
+when: 1585245477.78872
+asMultiple: FALSE
+asStatic: FALSE

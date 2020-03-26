@@ -1,0 +1,12 @@
+name: example
+title: example
+username: cole
+account: cole
+server: cole
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 5153
+bundleId: 35451
+url: https://colorado.rstudio.com/rsc/content/5153/
+when: 1585245431.18452
+asMultiple: FALSE
+asStatic: FALSE
