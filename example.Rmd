@@ -8,7 +8,7 @@ params:
       label: "Hospital System:"
       value: hospital_1
       input: select
-      choices: !expr if (Sys.getenv("R_CONFIG_ACTIVE") == "rsconnect") readr::read_csv("file.csv")$hospital else "hospital_1"
+      choices: !expr readr::read_csv("https://colorado.rstudio.com/rsc/cole/file-csv/")$hospital
       multiple: TRUE
 ---
 
