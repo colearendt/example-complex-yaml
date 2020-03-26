@@ -8,7 +8,7 @@ params:
       label: "Hospital System:"
       value: hospital_1
       input: select
-      choices: !expr readr::read_csv("file.csv")$hospital
+      choices: [‘hospital_1’, ‘hospital_2’]
       multiple: TRUE
 ---
 
